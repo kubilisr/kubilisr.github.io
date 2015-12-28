@@ -1,7 +1,7 @@
 # Site settings
 title: Console Breadcrumbs
 email: oldcar@inbox.lv
-description: "Yet another github user page about programming, bash scripting and other bits and pieces"
+description: "Yet another github user page about programming, bash scripting, git usage and other bits and pieces"
 baseurl: "https://kubilisr.github.io"
 url: "https://kubilisr.github.io"
 twitter_username: kubilisr
