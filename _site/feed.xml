@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Console Breadcrumbs</title>
+    <description>Yet another github user page about programming, bash scripting and other bits and pieces</description>
+    <link>https://wolf3d.github.iohttps://wolf3d.github.io/</link>
+    <atom:link href="https://wolf3d.github.iohttps://wolf3d.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 28 Dec 2015 14:17:14 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Dec 2015 14:17:14 +0200</lastBuildDate>
+    <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Holiday Gist</title>
+        <description>&lt;p&gt;Found this little nice snippet on nixCraft’s facebook page :)&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/1b8aa8a9670e7fccd32f.js&quot;&gt; &lt;/script&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;c&quot;&gt;#=&amp;gt; prints &amp;#39;Happy Holidays. Ho ho ho.&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;nixCraft’s web site &lt;a href=&quot;http://www.cyberciti.biz&quot; target=&quot;_blank&quot;&gt;http://www.cyberciti.biz&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 26 Dec 2015 18:25:08 +0200</pubDate>
+        <link>https://wolf3d.github.iohttps://wolf3d.github.io/bash/holidays/fun/nixcraft/2015/12/26/holiday-gist/</link>
+        <guid isPermaLink="true">https://wolf3d.github.iohttps://wolf3d.github.io/bash/holidays/fun/nixcraft/2015/12/26/holiday-gist/</guid>
+        
+        
+        <category>bash</category>
+        
+        <category>holidays</category>
+        
+        <category>fun</category>
+        
+        <category>nixcraft</category>
+        
+      </item>
+    
+  </channel>
+</rss>
