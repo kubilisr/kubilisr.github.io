@@ -6,6 +6,7 @@ baseurl: ""
 url: "https://kubilisr.github.io"
 twitter_username: kubilisr
 github_username:  wolf3d
+founded: 2016    
 
 # Build settings
 markdown: kramdown
