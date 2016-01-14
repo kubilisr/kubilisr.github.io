@@ -5,7 +5,7 @@ date:   2016-01-13 07:53:08
 categories: scala programming books
 ---
 
-I started to learn scala recently from very basics. First thing that I did was searching available resources on internet.
+Recently I started to learn scala from very basics. First thing that I did to start my endeavor was searching available resources on internet. Basically these two posts from reddit is the main source of book suggestions [I have 6 months to learn Scala (job), help?](https://www.reddit.com/r/scala/comments/40kf57/i_have_6_months_to_learn_scala_job_help/){:target="_blank"}, [How do I move beyond the "Scala basics"](https://www.reddit.com/r/scala/comments/409lki/how_do_i_move_beyond_the_scala_basics/){:target="_blank"}.
 So far I have compiled such list of books. The list itself in order that I expect to go through it.
 
 1. Scala By Example, by Martin Odersky, 145 pages, PDF available from scala website [http://www.scala-lang.org/docu/files/ScalaByExample.pdf](http://www.scala-lang.org/docu/files/ScalaByExample.pdf){:target="_blank"}
