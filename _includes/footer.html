@@ -55,8 +55,8 @@
     <div class="footer-col-3 column">
       <p class="text">{{ site.description }}</p>
     </div>
-    <div class="footer-col-3 column">
-        <p class="text">Powered by <a href="http://jekyllrb.com/">jekyll</a>, blog founded in {{site.founded}}</p>
+    <div class="footer-col-4 column">
+        <p class="text">Powered by <a href="http://jekyllrb.com/">jekyll</a>, blog founded in {{site.founded}}, last updated on {% assign post = site.posts.first %}{% assign date = post.date %}{{ date | YYYY-MM-DD HH:MM:SS +0200}}</p>
     </div>
 
   </div>
