@@ -1,0 +1,27 @@
+# Site settings
+name: Console Breadcrumbs
+description: Yet another github user page about programming, bash scripting, git usage and other bits and pieces
+meta_description: "Yet another github user page about programming, bash scripting, git usage and other bits and pieces"
+
+permalink: /:year/:month/:day/:title
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 5
+baseurl: /
+domain_name: 'http://kubilisr.github.io'
+#google_analytics: 'UA-XXXXXXXX-X'
+gems: [jekyll-paginate,jekyll-gist]
+
+# Details for the RSS feed generator
+url:            'http://kubilisr.github.io'
+author:         'Rihards Kubilis'
+
+# other
+url: "https://kubilisr.github.io"
+twitter_username: kubilisr
+github_username:  wolf3d
+founded: 2016    
+
+###########
