@@ -55,6 +55,7 @@ user@debian:~$ dc
 10
 
 ```
+
 ![dc]({{ site.url }}/assets/2366ae691301f60070a0349fa61a9f0a/002.png)
 
 result is pushed back to the stack
@@ -169,6 +170,7 @@ v p
 5
 
 ```
+
 ![dc]({{ site.url }}/assets/2366ae691301f60070a0349fa61a9f0a/013.png)
 
 resulting number 5 is pushed back to stack
@@ -176,6 +178,7 @@ resulting number 5 is pushed back to stack
 ![dc]({{ site.url }}/assets/2366ae691301f60070a0349fa61a9f0a/014.png)
 
 now let's substract 3 from 5
+
 ```
 user@debian:~$
 user@debian:~$ dc
