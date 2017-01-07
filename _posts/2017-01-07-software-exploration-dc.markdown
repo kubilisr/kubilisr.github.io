@@ -47,8 +47,8 @@ user@debian:~$ dc
 ```
 
 ![dc]({{ site.url }}/assets/2366ae691301f60070a0349fa61a9f0a/001.png)
-```
 
+```
 user@debian:~$
 user@debian:~$ dc
 7 3 + p
