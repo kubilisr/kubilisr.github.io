@@ -215,6 +215,7 @@ end result is pushed back to stack
 ![dc]({{ site.url }}/assets/2366ae691301f60070a0349fa61a9f0a/017.png)
 
 it is also possible to do above operations in single step by piping expression to *dc* command
+
 ```
 user@debian:~$ 
 user@debian:~$ echo "7 3 + d * 4 / v 3 -p" | dc
@@ -223,6 +224,7 @@ user@debian:~$
 ```
 
 Here I presented bare-minimum what one can do with *bc*, you can read more information in *bc*'s man page
+
 ```
 user@debian:~$
 user@debian:~$ man dc<Return>
