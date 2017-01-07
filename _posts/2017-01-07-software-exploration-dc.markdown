@@ -7,7 +7,7 @@ disqus: true
 bio: false
 ---
 It is that typical time of day when you are working on your computer, some parts of the task involves using command line tools especially one of the most used bash builtins *cd* command.
-*cd* is used to change shell working directory. I am changing between various directories and all of sudden a typo occurs, I have mistyped *cd* and instead written *dc* and, to my surprise, after pressing *return* key it is not followed by
+*cd* is used to change shell working directory. I am changing between various directories and all of sudden a typo occurs, I have mistyped *cd* and instead written *dc* and, to my surprise, after pressing *return* key it is not followed by  
 ```
 bash: dc: command not found
 ```
