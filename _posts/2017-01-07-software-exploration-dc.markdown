@@ -18,7 +18,9 @@ user@debian:~$
 user@debian:~$ dc<Return>
 
 ```
+
 I press Ctrl + c to interrupt the process and take a quick glimpse on *dc*'s man page afterwards.
+
 ```
 user@debian:~$ 
 user@debian:~$ man dc<Return>
