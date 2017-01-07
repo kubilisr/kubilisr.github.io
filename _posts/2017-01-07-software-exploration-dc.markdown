@@ -31,19 +31,24 @@ Man page says *dc - an arbitrary precision calculator*, so there exists such com
  
 Below is my attempt to show some examples with stack, operation and result visualization using spreadsheet.
 In situation when I need to calculate result of such expression *3 + 7* what should I do. To solve this I issue *dc* command
+
 ```
 user@debian:~$ 
 user@debian:~$ dc<Return>
 
 ```
+
 I am pushing two numbers to the stack, appended with *+ p* addition and printing command, then I press return key.
+
 ```
 user@debian:~$ 
 user@debian:~$ dc
 7 3 + p<Return>
 ```
+
 ![dc]({{ site.url }}/assets/2366ae691301f60070a0349fa61a9f0a/001.png)
 ```
+
 user@debian:~$
 user@debian:~$ dc
 7 3 + p
@@ -57,6 +62,7 @@ result is pushed back to the stack
 ![dc]({{ site.url }}/assets/2366ae691301f60070a0349fa61a9f0a/003.png)
 
 now let's say I need to duplicate the value on the top of the stack, by pushing another copy of it.
+
 ```
 user@debian:~$
 user@debian:~$ dc
@@ -64,6 +70,7 @@ user@debian:~$ dc
 10
 d<Return>
 ```
+
 ![dc]({{ site.url }}/assets/2366ae691301f60070a0349fa61a9f0a/004.png)
 
 stack now contains two numbers
@@ -71,6 +78,7 @@ stack now contains two numbers
 ![dc]({{ site.url }}/assets/2366ae691301f60070a0349fa61a9f0a/005.png)
 
 let's multiply these two numbers
+
 ```
 user@debian:~$
 user@debian:~$ dc
@@ -79,6 +87,7 @@ user@debian:~$ dc
 d
 * p<Return>
 ```
+
 ![dc]({{ site.url }}/assets/2366ae691301f60070a0349fa61a9f0a/006.png)
 
 ```
@@ -91,11 +100,13 @@ d
 100
 
 ```
+
 ![dc]({{ site.url }}/assets/2366ae691301f60070a0349fa61a9f0a/007.png)
 
 ![dc]({{ site.url }}/assets/2366ae691301f60070a0349fa61a9f0a/008.png)
 
 let's divide 100 by 4
+
 ```
 user@debian:~$
 user@debian:~$ dc
@@ -129,6 +140,7 @@ stack contains just 25 now
 ![dc]({{ site.url }}/assets/2366ae691301f60070a0349fa61a9f0a/011.png)
 
 let's calculate square root of 25
+
 ```
 user@debian:~$
 user@debian:~$ dc
