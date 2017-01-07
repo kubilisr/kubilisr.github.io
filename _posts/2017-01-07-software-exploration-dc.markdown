@@ -13,6 +13,7 @@ It is that typical time of day when you are working on your computer, some parts
 bash: dc: command not found
 ```
 but rather at first unexpected behaviour from cursor, it has moved to next line. First thought is that there is such command named *dc* and seems it is awaiting for an input.
+
 ```
 user@debian:~$ 
 user@debian:~$ dc<Return>
