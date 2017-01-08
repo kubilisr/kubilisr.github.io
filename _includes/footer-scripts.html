@@ -61,3 +61,21 @@
     {% endif %}
   {% endfor %}
 {% endif %}
+{% if layout.light-galleries %}
+<script>
+$(document).ready(function(){
+{% for lgs in layout.light-galleries %} 
+$('#{{ lgs }}').lightGallery();
+{% endfor %}
+});
+</script>
+{% endif %}
+{% if page.light-galleries %}
+<script>
+$(document).ready(function(){
+{% for lgs in page.light-galleries %}
+$('#{{ lgs }}').lightGallery();
+{% endfor %}
+});
+</script>
+{% endif %}
