@@ -14,6 +14,7 @@ List of software and items that will be needed
 - Wine - a compatibility layer capable of running Windows applications on Linux, [https://www.winehq.org](https://www.winehq.org){:target="_blank"}
 - LCD Assistant, [http://en.radzio.dxp.pl/bitmap_converter](http://en.radzio.dxp.pl/bitmap_converter){:target="_blank"}, by Radosław Kwiecień
 - [https://material.io/icons](https://material.io/icons/){:target="_blank"} - material design icons from Google Design, Google Design is a cooperative effort led by a group of designers, writers, and developers at Google
+- SSD1306xLED - Drivers for SSD1306 controlled dot matrix OLED/PLED 128x64 displays, [https://bitbucket.org/tinusaur/ssd1306xled](https://bitbucket.org/tinusaur/ssd1306xled){:target="_blank"}
 
 ```
 
