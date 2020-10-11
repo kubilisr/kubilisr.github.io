@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Rihards Kubilis</title>
-    <link>https://kubilisr.github.io/</link>
-    <description>Recent content in Home on Rihards Kubilis</description>
+    <title>Blogs on Rihards Kubilis</title>
+    <link>https://kubilisr.github.io/blog/</link>
+    <description>Recent content in Blogs on Rihards Kubilis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
     <lastBuildDate>Tue, 15 Sep 2020 21:08:00 +0300</lastBuildDate>
     
-	<atom:link href="https://kubilisr.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kubilisr.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

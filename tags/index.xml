@@ -1,15 +1,106 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Blog</title>
+    <title>Tags on Rihards Kubilis</title>
     <link>https://kubilisr.github.io/tags/</link>
-    <description>Recent content in Tags on Blog</description>
+    <description>Recent content in Tags on Rihards Kubilis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
+    <lastBuildDate>Tue, 15 Sep 2020 21:08:00 +0300</lastBuildDate>
     
 	<atom:link href="https://kubilisr.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>basic</title>
+      <link>https://kubilisr.github.io/tags/basic/</link>
+      <pubDate>Tue, 15 Sep 2020 21:08:00 +0300</pubDate>
+      
+      <guid>https://kubilisr.github.io/tags/basic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>certificate</title>
+      <link>https://kubilisr.github.io/tags/certificate/</link>
+      <pubDate>Tue, 15 Sep 2020 21:08:00 +0300</pubDate>
+      
+      <guid>https://kubilisr.github.io/tags/certificate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hackerrank</title>
+      <link>https://kubilisr.github.io/tags/hackerrank/</link>
+      <pubDate>Tue, 15 Sep 2020 21:08:00 +0300</pubDate>
+      
+      <guid>https://kubilisr.github.io/tags/hackerrank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>https://kubilisr.github.io/tags/javascript/</link>
+      <pubDate>Tue, 15 Sep 2020 21:08:00 +0300</pubDate>
+      
+      <guid>https://kubilisr.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://kubilisr.github.io/tags/python/</link>
+      <pubDate>Mon, 14 Sep 2020 08:25:08 +0300</pubDate>
+      
+      <guid>https://kubilisr.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>arduino</title>
+      <link>https://kubilisr.github.io/tags/arduino/</link>
+      <pubDate>Sat, 24 Dec 2016 08:25:08 +0300</pubDate>
+      
+      <guid>https://kubilisr.github.io/tags/arduino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fun</title>
+      <link>https://kubilisr.github.io/tags/fun/</link>
+      <pubDate>Sat, 24 Dec 2016 08:25:08 +0300</pubDate>
+      
+      <guid>https://kubilisr.github.io/tags/fun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>holidays</title>
+      <link>https://kubilisr.github.io/tags/holidays/</link>
+      <pubDate>Sat, 24 Dec 2016 08:25:08 +0300</pubDate>
+      
+      <guid>https://kubilisr.github.io/tags/holidays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oled</title>
+      <link>https://kubilisr.github.io/tags/oled/</link>
+      <pubDate>Sat, 24 Dec 2016 08:25:08 +0300</pubDate>
+      
+      <guid>https://kubilisr.github.io/tags/oled/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssd1306xled</title>
+      <link>https://kubilisr.github.io/tags/ssd1306xled/</link>
+      <pubDate>Sat, 24 Dec 2016 08:25:08 +0300</pubDate>
+      
+      <guid>https://kubilisr.github.io/tags/ssd1306xled/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

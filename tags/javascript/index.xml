@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>javascript on Rihards Kubilis</title>
+    <link>https://kubilisr.github.io/tags/javascript/</link>
+    <description>Recent content in javascript on Rihards Kubilis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Tue, 15 Sep 2020 21:08:00 +0300</lastBuildDate>
+    
+	<atom:link href="https://kubilisr.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hackerrank&#39;s JavaScript (Basic) Skills Certification Test</title>
+      <link>https://kubilisr.github.io/blog/2020-09-16-hackerrank_javascript_basic/</link>
+      <pubDate>Tue, 15 Sep 2020 21:08:00 +0300</pubDate>
+      
+      <guid>https://kubilisr.github.io/blog/2020-09-16-hackerrank_javascript_basic/</guid>
+      <description>Today I decided to take a peek on Hackerrank&amp;rsquo;s JavaScript (Basic) Skills Certification Test and completed it. Now I have JavaScript (Basic) Certificate too. Looking forward for Intermediate skills test availability. I am quite excited about the tasks in the test, because I had the opportunity to use JavaScript&amp;rsquo;s built-in data structures.</description>
+    </item>
+    
+  </channel>
+</rss>

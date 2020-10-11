@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>oled on Rihards Kubilis</title>
+    <link>https://kubilisr.github.io/tags/oled/</link>
+    <description>Recent content in oled on Rihards Kubilis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Sat, 24 Dec 2016 08:25:08 +0300</lastBuildDate>
+    
+	<atom:link href="https://kubilisr.github.io/tags/oled/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Merry Christmas</title>
+      <link>https://kubilisr.github.io/blog/2016-12-24-merry_christmas/</link>
+      <pubDate>Sat, 24 Dec 2016 08:25:08 +0300</pubDate>
+      
+      <guid>https://kubilisr.github.io/blog/2016-12-24-merry_christmas/</guid>
+      <description>I had some spare time before holidays and I decided to assemble a simple electronic greeting prototype and this is a result of me finding these free Christmas related icons, so I created a thresholded bitmaps of these images and converted them to hex arrays using bitmap converter program. In video above you can see 0.96&amp;rdquo; OLED display hooked up with jumper wires to Attiny85 microcontroller on breadboard, here I am using ssd1306xled library drivers to display images on screen, ssd1306xled is provided provided by - The Tinusaur Project.</description>
+    </item>
+    
+  </channel>
+</rss>

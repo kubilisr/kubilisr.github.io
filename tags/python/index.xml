@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Rihards Kubilis</title>
+    <link>https://kubilisr.github.io/tags/python/</link>
+    <description>Recent content in python on Rihards Kubilis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Mon, 14 Sep 2020 08:25:08 +0300</lastBuildDate>
+    
+	<atom:link href="https://kubilisr.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(Basic) Certificates from Hackerrank</title>
+      <link>https://kubilisr.github.io/blog/2020-09-14-hackerrank_python_basic/</link>
+      <pubDate>Mon, 14 Sep 2020 08:25:08 +0300</pubDate>
+      
+      <guid>https://kubilisr.github.io/blog/2020-09-14-hackerrank_python_basic/</guid>
+      <description>A week ago I noticed that Hackerrank does certification in its own way in certain areas e.g. Python, JavaScript or Problem Solving. Although it is a basic level, but out of curiosity I decided to take this challange myself and today I earned both Python (Basic) skill certificate and Problem Solving (Basic) Certificate via HackerRank. I am going to check Intermediate level (Problem Solving) certification sometime soon also looking forward for Intermediate Python skill certificate availability.</description>
+    </item>
+    
+  </channel>
+</rss>
